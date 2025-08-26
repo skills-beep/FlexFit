@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlexFit</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_workouts">Workouts</string>
+    <string name="nav_progress">Progress</string>
+    <string name="nav_goals">Goals</string>
+    <string name="nav_profile">Profile</string>
+    
+    <!-- Home Screen -->
+    <string name="welcome_back">Welcome back!</string>
+    <string name="todays_activity">Today\'s Activity</string>
+    <string name="quick_stats">Quick Stats</string>
+    <string name="recent_workouts">Recent Workouts</string>
+    <string name="start_workout">Start Workout</string>
+    
+    <!-- Stats -->
+    <string name="calories_burned">Calories Burned</string>
+    <string name="workout_time">Workout Time</string>
+    <string name="exercises_completed">Exercises</string>
+    <string name="current_streak">Current Streak</string>
+    
+    <!-- Units -->
+    <string name="kcal">kcal</string>
+    <string name="minutes">min</string>
+    <string name="days">days</string>
+    
+    <!-- Workouts -->
+    <string name="workout_types">Workout Types</string>
+    <string name="strength_training">Strength Training</string>
+    <string name="cardio">Cardio</string>
+    <string name="flexibility">Flexibility</string>
+    <string name="hiit">HIIT</string>
+    
+    <!-- Progress -->
+    <string name="weekly_progress">Weekly Progress</string>
+    <string name="monthly_progress">Monthly Progress</string>
+    <string name="achievements">Achievements</string>
+    <string name="personal_records">Personal Records</string>
+    
+    <!-- Goals -->
+    <string name="set_goals">Set Goals</string>
+    <string name="weekly_goal">Weekly Goal</string>
+    <string name="monthly_goal">Monthly Goal</string>
+    <string name="weight_goal">Weight Goal</string>
+    
+    <!-- Profile -->
+    <string name="profile_settings">Profile Settings</string>
+    <string name="notifications">Notifications</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="units">Units</string>
+    
+    <!-- Actions -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="start">Start</string>
+    <string name="finish">Finish</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+</resources>
